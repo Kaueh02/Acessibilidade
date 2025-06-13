@@ -33,3 +33,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 })
+
+ScrollReveal().reveal('#Inicio', { delay: 500 });
+ScrollReveal().reveal('#Tropicalia', { delay: 500 });
+ScrollReveal().reveal('#Galeria', { delay: 500 });
+ScrollReveal().reveal('#Contato', { delay: 500 });
